@@ -1,0 +1,16 @@
+2023.03.28 22:16:35 INFO  Started: Metals version 0.11.11 in workspace '/Users/eruku/git/indoorloc-thresh_ellipsoid-fy2020proto1-exp-iida/src/main/scala/org/miubiq/analytics/indoorloc/thresh_ellipsoid/fy2020proto1/exp/iida' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/eruku/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.28 22:16:37 INFO  time: initialize in 1.52s
+2023.03.28 22:16:38 WARN  Build server is not auto-connectable.
+2023.03.28 22:16:38 WARN  no build target for: /Users/eruku/git/indoorloc-thresh_ellipsoid-fy2020proto1-exp-iida/src/main/scala/org/miubiq/analytics/indoorloc/thresh_ellipsoid/fy2020proto1/exp/iida/expMethods.scala
+2023.03.28 22:16:52 INFO  no build target found for /Users/eruku/git/indoorloc-thresh_ellipsoid-fy2020proto1-exp-iida/src/main/scala/org/miubiq/analytics/indoorloc/thresh_ellipsoid/fy2020proto1/exp/iida/expMethods.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.28 22:16:57 INFO  time: code lens generation in 16s
+2023.03.28 22:30:25 WARN  no build target for: /Users/eruku/git/indoorloc-thresh_ellipsoid-fy2020proto1-exp-iida/src/main/scala/org/miubiq/analytics/indoorloc/thresh_ellipsoid/fy2020proto1/exp/iida/expMethodsSettingGenerator.scala
+2023.03.28 22:30:30 WARN  no build target for: /Users/eruku/git/indoorloc-thresh_ellipsoid-fy2020proto1-exp-iida/src/main/scala/org/miubiq/analytics/indoorloc/thresh_ellipsoid/fy2020proto1/exp/iida/vis/visCDF.scala
+2023.03.28 22:30:31 INFO  time: code lens generation in 1.23s
+2023.03.28 22:30:36 WARN  no build target for: /Users/eruku/git/indoorloc-thresh_ellipsoid-fy2020proto1-exp-iida/src/main/scala/org/miubiq/analytics/indoorloc/thresh_ellipsoid/fy2020proto1/exp/iida/vis/visCDFSettingGenerator.scala
